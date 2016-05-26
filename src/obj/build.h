@@ -1,0 +1,2 @@
+#define BUILD_SUFFIX 0423b3f-dirty
+#define BUILD_DATE "2016-05-26 15:44:35 +0300"

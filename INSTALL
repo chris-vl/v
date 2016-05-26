@@ -1,0 +1,5 @@
+Building VCoin
+
+See doc/build-*.md for instructions on building vcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of VCoin.
